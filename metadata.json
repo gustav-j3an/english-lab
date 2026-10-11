@@ -1,0 +1,7 @@
+{
+  "name": "English Lab",
+  "description": "Plataforma moderna para brasileiros aprenderem inglês do nível iniciante ao avançado, com lições interativas, tutor de conversação, repetição espaçada e acompanhamento de fluência CEFR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
